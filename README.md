@@ -35,8 +35,8 @@ After solving a problem, check off your name here:
 Example: `200-Number_of_Islands-Dayeon.py`
 
 ### Pull Request Naming
-- **Format**: `[Date] ProblemNumber - Author`  
-Example: `[220624] 200 - Dayeon`
+- **Format**: `[Date([Month][Day][Year])] ProblemNumber - Author`  
+Example: `[022625] 200 - Dayeon`
 
 ### Commit Messages
 
